@@ -55,6 +55,7 @@
 				<Item Name="Version To Dotted String.vi" Type="VI" URL="/&lt;vilib&gt;/_xctls/Version To Dotted String.vi"/>
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
+			<Item Name="LV_QHull_64.dll" Type="Document" URL="../LV QHull/LV_QHull_64.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="QHull" Type="Packed Library">
