@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-04-04 11:57:19" Modified_Date="2024-04-04 13:55:40" Creator="KLEINS" Comments="" ID="79b2477e8fce45c33b7971de6b090a0d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-04-04 11:57:19" Modified_Date="2024-04-04 14:10:22" Creator="KLEINS" Comments="" ID="db8a9eceaa2f9f79d134ec90524935c3">
   <Library_General_Settings>
     <Package_File_Name>sklein_lib_LV_Hull</Package_File_Name>
-    <Library_Version>0.8.0.12</Library_Version>
+    <Library_Version>0.8.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>LV 2015</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -33,7 +33,9 @@
 - N-D Convex Hull
 - N-D Delaunay 
 
-At this time, voronoi cells are not accessible.</Description>
+At this time, voronoi cells are not accessible.
+
+License of the included QHull library: See QHull Copying.txt</Description>
       <Copyright/>
       <Packager/>
       <URL>https://github.com/kleinsimon/LV-QHull</URL>
@@ -126,7 +128,7 @@ At this time, voronoi cells are not accessible.</Description>
         <Path/>
       </Place_Folder_Contents>
     </Source_Files>
-    <License_Agreement_Filepath>LICENSE</License_Agreement_Filepath>
+    <License_Agreement_Filepath>Lincese combined.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -239,7 +241,7 @@ At this time, voronoi cells are not accessible.</Description>
         <Path>LV 2015\LV QHull\Delaunay.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D77EEE6C6C868AB969C6C4B11425AA6D</GUID>
+      <GUID>95DC6DD65B3BDC2BCF9025EC9664C006</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
