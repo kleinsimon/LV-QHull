@@ -17,8 +17,10 @@
 			<Item Name="Example Delaunay.vi" Type="VI" URL="../Examples/Example Delaunay.vi"/>
 		</Item>
 		<Item Name="libs" Type="Folder">
-			<Item Name="LV_QHull.dll" Type="Document" URL="../LV QHull/x64/LV_QHull.dll"/>
-			<Item Name="qhull_r.dll" Type="Document" URL="../LV QHull/x64/qhull_r.dll"/>
+			<Item Name="LV_QHull_32.dll" Type="Document" URL="../LV QHull/LV_QHull_32.dll"/>
+			<Item Name="LV_QHull_64.dll" Type="Document" URL="../LV QHull/LV_QHull_64.dll"/>
+			<Item Name="qhull_r_32.dll" Type="Document" URL="../LV QHull/qhull_r_32.dll"/>
+			<Item Name="qhull_r_64.dll" Type="Document" URL="../LV QHull/qhull_r_64.dll"/>
 		</Item>
 		<Item Name="QHull.lvlib" Type="Library" URL="../LV QHull/QHull.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -55,7 +57,6 @@
 				<Item Name="Version To Dotted String.vi" Type="VI" URL="/&lt;vilib&gt;/_xctls/Version To Dotted String.vi"/>
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
-			<Item Name="LV_QHull_64.dll" Type="Document" URL="../LV QHull/LV_QHull_64.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="QHull" Type="Packed Library">
